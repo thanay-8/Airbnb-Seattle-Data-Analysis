@@ -216,3 +216,17 @@ visualization, and insight generation**.
 The final dashboard enables users to interactively explore Seattle
 Airbnb market trends and better understand the factors associated with
 pricing, availability, listing characteristics, and guest satisfaction.
+
+## Power BI Dashboard
+
+### Page 1 – Airbnb Seattle Market Overview
+
+![Airbnb Seattle Market Overview](Airbnb%20Dashboard%20pg_1.png)
+
+### Page 2 – Pricing & Seasonal Analysis
+
+![Pricing and Seasonal Analysis](Airbnb%20Dashboard%20pg_2.png)
+
+### Page 3 – Reviews & Host Analysis
+
+![Reviews and Host Analysis](Airbnb%20Dashboard%20pg_3.png)
